@@ -1,4 +1,4 @@
-# BOTS2024: Amfibot
+# BOTS2024: Stariy Bot
 
 # Команда:
 
